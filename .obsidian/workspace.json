@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "8a6b8d023d5fcb96",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c08b70e402724c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93ed201f950a52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/sgblog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sgblog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0282303a99e78455",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80b1b0e73e1bf67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55eced498f712238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8e5c04e6219b69f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b30b54105997137d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd3d63df30b8c4f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3396af37b2fd1c",
+        "type": "tabs",
+        "dimension": 42.030567685589524,
+        "children": [
+          {
+            "id": "15e48554a7f3a5ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e7803df207645dc",
+        "type": "tabs",
+        "dimension": 57.969432314410476,
+        "children": [
+          {
+            "id": "ef28cf274dcb9800",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "2455cc8977ecb909",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bd4bc0d182112b19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "aba0dc17e4d2e6a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-06-06.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-06-06 的大纲"
+            }
+          },
+          {
+            "id": "4dafe2bbff48c882",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Projects/sgblog.md"
+              },
+              "icon": "lucide-info",
+              "title": "sgblog的笔记属性"
+            }
+          },
+          {
+            "id": "b6014d885129e0f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "command-palette:打开命令面板": true,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d93ed201f950a52f",
+  "lastOpenFiles": [
+    "✅ Tasks.md",
+    "Projects/sgblog.md",
+    "Area/Tools/Obsidian.md",
+    "Area/Big Data/数据开发.README.md",
+    "📝 Next actions list.md",
+    "Resources/Attachment/PDF/spark/Spark调优/尚硅谷大数据技术之Spark调优.pdf",
+    "Resources/Attachment/PDF/spark/Spark调优/尚硅谷大数据技术之Spark优化.xmind",
+    "Resources/Attachment/PDF/spark/Spark实时项目Spark Streaming/04_尚硅谷大数据项目之Spark实时（可视化）.pdf",
+    "Resources/Attachment/PDF/spark/Spark实时项目Spark Streaming/03_尚硅谷大数据技术之ElasticSearch.pdf",
+    "Resources/Attachment/PDF/spark/Spark实时项目Spark Streaming/02_尚硅谷大数据项目之Spark实时（分层处理）.pdf",
+    "Resources/Attachment/PDF/spark/Spark实时项目Spark Streaming/01_尚硅谷大数据项目之Spark实时（数据采集）.pdf",
+    "Resources/Attachment/PDF/spark/Spark Core+SQL/05_尚硅谷大数据技术之Spark优化.pdf",
+    "Resources/Attachment/PDF/spark/Spark Core+SQL/04_尚硅谷大数据技术之Spark内核.pdf",
+    "Resources/Attachment/PDF/spark/Spark Core+SQL/03_尚硅谷大数据技术之SparkStreaming.pdf",
+    "Resources/Attachment/PDF/spark/Spark Core+SQL/02_尚硅谷大数据技术之SparkSql.pdf",
+    "Resources/Attachment/PDF/certification/PDE - weiming.yang.jpg",
+    "Resources/Attachment/PDF/certification/ACP_certification_weiming_20210713.jpg.jpg",
+    "Resources/Attachment/image/Pasted image 20220202185506.png",
+    "Resources/Attachment/image/Pasted image 20220116203435.png",
+    "Resources/Attachment/image/1681459080873.png",
+    "Resources/Attachment/image/1682388204239.png",
+    "Resources/Attachment/image/1682411455146.png",
+    "Resources/Attachment/image/Pasted image 20230806221756.png",
+    "Resources/Attachment/image/1682494375365.png",
+    "Resources/Attachment/image/delegatingfilterproxy.png",
+    "Resources/Attachment/image/proxy_code.js.md",
+    "Resources/Attachment/Code/spark-kafka/SparkKafkaReadme.md",
+    "Resources/Attachment/Code/spark-realtime-1018/SparkRealtimeReadme.md",
+    "Resources/Attachment/Code/spark-realtime-1018/springboot-demo/HELP.md",
+    "Resources/Attachment/Code/spark-realtime-1018/publisher-realtime/HELP.md",
+    "Resources/Attachment/Code/spark-core/SparkCoreReadme.md",
+    "Resources/Attachment/Code/kafka/KafkaReadme.md",
+    "Resources/Attachment/Code/spark-realtime/springboot-demo/HELP.md",
+    "Resources/Attachment/Code/spark-realtime/publisher-realtime/HELP.md",
+    "Resources/Attachment/Code/FlinkTutorial-1.17/FlinkTutorialReadme.md.md",
+    "Resources/Attachment/Code/springboot-kafka/SpringBootKafkaReadme.md",
+    "Resources/Attachment/Code/springboot-kafka/HELP.md",
+    "Resources/Attachment/Code/spark-tuning/SparkTuningReadme.md",
+    "Area/Tools/Tools.md",
+    "🗃️ Projects list.md",
+    "Resources/Utility/Scripts/Dataview/tasks.js.md",
+    "Periodic Notes/2025-06/2025-06-08.md",
+    "🗄️ Completed tasks.md",
+    "Resources/Attachment/backup/00 Documentation/Documentation.md",
+    "Area/Reading/读书后感/左耳听风读后感.md",
+    "Area/Reading/职业生涯/职业规划 - Aboutyun.md"
+  ]
+}

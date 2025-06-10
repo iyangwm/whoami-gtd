@@ -1,0 +1,4 @@
+{
+  "template": "Resources/Utility/Templates/Daily Notes Template",
+  "folder": "Periodic Notes/{{date:YYYY-MM}}"
+}

@@ -1,0 +1,13 @@
+{
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Resources/image",
+  "showInlineTitle": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Project"
+}
